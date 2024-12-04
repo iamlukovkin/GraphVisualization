@@ -1,0 +1,56 @@
+.graph {
+    -fx-background-color: transparent;
+}
+
+.vertex {
+    -fx-stroke-width: 2;
+    -fx-stroke: #EAEAEA;
+    -fx-stroke-type: inside;
+    -fx-fill: transparent;
+}
+
+.vertex:hover {
+    -fx-stroke-width: 4;
+}
+
+.vertex-label {
+    -fx-font: bold 12pt "sans-serif";
+    -fx-font-family: "Arial Black";
+    -fx-text-fill: #EAEAEA;
+    -fx-fill: #EAEAEA;
+}
+
+.edge {
+    -fx-stroke-width: 2;
+    -fx-stroke: #7500c5;
+    -fx-stroke-dash-array: 2 5 2 5;
+    -fx-fill: transparent;
+    -fx-stroke-line-cap: round;
+    -fx-opacity: 0.8;
+}
+
+.edge:hover {
+    -fx-stroke-width: 3;
+}
+
+.edge-label {
+    -fx-font: normal 12pt "sans-serif";
+}
+
+.arrow {
+    -fx-stroke-dash-array: none;
+}
+
+.myVertex {
+    -fx-stroke-width: 4;
+    -fx-stroke: green;
+    -fx-stroke-type: inside;
+    -fx-fill: yellowgreen;
+}
+
+.myEdge {
+    -fx-stroke-width: 2;
+    -fx-stroke: red;
+    -fx-opacity: 1;
+    -fx-fill: transparent;
+}

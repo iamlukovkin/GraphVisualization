@@ -1,0 +1,82 @@
+[
+  {
+    "shape": "circle",
+    "radius": 4.0,
+    "name": "Москва",
+    "latitude": 55.755825,
+    "longitude": 37.6173,
+    "population": 1.0
+  },
+  {
+    "shape": "circle",
+    "radius": 7.885753365520984,
+    "name": "Нижний Новгород",
+    "latitude": 56.33,
+    "longitude": 44.0,
+    "population": 6.0
+  },
+  {
+    "shape": "circle",
+    "radius": 7.490356206981418,
+    "name": "Казань",
+    "latitude": 55.79,
+    "longitude": 49.12,
+    "population": 5.0
+  },
+  {
+    "shape": "circle",
+    "radius": 8.99357080465428,
+    "name": "Пермь",
+    "latitude": 58.01,
+    "longitude": 56.25,
+    "population": 10.0
+  },
+  {
+    "shape": "circle",
+    "radius": 7.006429195345721,
+    "name": "Екатеринбург",
+    "latitude": 56.85,
+    "longitude": 60.61,
+    "population": 4.0
+  },
+  {
+    "shape": "circle",
+    "radius": 8.509643793018583,
+    "name": "Омск",
+    "latitude": 54.99,
+    "longitude": 73.37,
+    "population": 8.0
+  },
+  {
+    "shape": "circle",
+    "radius": 6.382538767848124,
+    "name": "Новосибирск",
+    "latitude": 55.04,
+    "longitude": 82.93,
+    "population": 3.0
+  },
+  {
+    "shape": "circle",
+    "radius": 8.765077535696248,
+    "name": "Красноярск",
+    "latitude": 55.02,
+    "longitude": 92.87,
+    "population": 9.0
+  },
+  {
+    "shape": "circle",
+    "radius": 5.50321459767286,
+    "name": "Санкт-Петербург",
+    "latitude": 59.940414,
+    "longitude": 30.094671,
+    "population": 2.0
+  },
+  {
+    "shape": "circle",
+    "radius": 8.220056899685746,
+    "name": "Челябинск",
+    "latitude": 55.15,
+    "longitude": 6143.0,
+    "population": 7.0
+  }
+]
