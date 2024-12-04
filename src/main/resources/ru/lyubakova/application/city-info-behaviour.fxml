@@ -7,15 +7,15 @@
 
 <VBox fx:id="root" styleClass="link-label" stylesheets="@styles/style.css" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ru.lyubakova.application.viewModels.CityInfoBehaviourController">
    <Text fx:id="name" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="h2" text="Название" />
-   <HBox styleClass="info-field">
+   <HBox>
       <Text strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text-label" text="Широта:" />
       <Label fx:id="latitude" text="0.5323" />
    </HBox>
-   <HBox styleClass="info-field">
+   <HBox>
       <Text strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text-label" text="Долгота:" />
       <Label fx:id="longitude" text="0.5462" />
    </HBox>
-   <HBox styleClass="info-field">
+   <HBox>
       <Text strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text-label" text="Население:" />
       <Label fx:id="population" text="0.5462" />
    </HBox>
